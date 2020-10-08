@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+}
+input{
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    text-align: left;
+}
+#butt{
+    text-align: center;
+}
